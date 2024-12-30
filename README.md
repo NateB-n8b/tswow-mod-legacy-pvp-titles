@@ -1,5 +1,5 @@
 # Legacy PVP Titles: A TSwow Mod by NateB-n8b
-Bringing back the Legacy PvP Titles for all to enjoy. The title is automatticaly given to the player once they reach to total number of kills for each rank. 
+Bringing back the Legacy PvP Titles for all to enjoy. The title is automatically given to the player once they reach to total number of kills for each rank. 
 
 ## Files Needed
 * livescripts/titles/legacy-pvp.ts
